@@ -6,4 +6,3 @@ for i in range(0,x):
     else:
       print('0',sep=" ", end=" ")
   print()
-
