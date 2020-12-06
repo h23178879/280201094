@@ -7,3 +7,10 @@ while (x != 'q'):
     print('sayı negatif')
   else:
     print('sayı pozitif')
+
+
+
+message=''
+while message != 'quit':
+ message= input("quit yazmazsan çıkmam: ")
+ print(message)
